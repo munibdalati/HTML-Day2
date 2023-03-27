@@ -1,0 +1,23 @@
+#d1 {
+   background-color: yellow;
+   border-style: solid;
+   border-color: orange;
+   padding: 20px 50px 20px 20px
+}
+
+#d2 {
+   background-color: lightblue;
+   border-style:solid;
+   border-color: blue;
+   padding: 0px 50px 0px 0px;
+   margin-top: 10px;
+}
+
+#d3 {
+   background-color: lightsalmon;
+   border-style:solid;
+   border-color: red;
+   padding: 20px 30px 20px 20px;
+   margin-top: 30px;
+   margin-left: 200px; 
+}

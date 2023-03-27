@@ -1,0 +1,19 @@
+.redbg {
+   background-color: pink;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num2 {
+   color: blue;
+   font-size: 36px;
+}
+
+.fsize {
+   font-size: 24px;
+}
+
+#num4 {
+   font-size: 24px;
+   background-color: lightgreen;
+   font-weight: bold;
+}

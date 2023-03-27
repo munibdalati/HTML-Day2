@@ -1,0 +1,25 @@
+#d1 {
+   font-weight: bold;
+   background-color: lightblue;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
+
+#d2 {
+   background-color: lightblue;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+}
+
+#d3 {
+   background-color: lightblue;
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.card {
+   margin: 20px 550px 20px;
+}

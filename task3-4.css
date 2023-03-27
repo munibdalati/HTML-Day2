@@ -1,0 +1,28 @@
+.class1 {
+   color:lightblue;
+   text-decoration: underline;
+   font-weight: bold;
+}
+
+#id1 {
+   color: orange;
+   background-color: lightblue;
+   font-weight: bold;
+}
+
+.center {
+   text-align: center;
+}
+
+.bluebg {
+   background-color: lightblue;
+
+}
+
+.blue {
+   color: blue;
+}
+
+.red {
+   color: red;
+}

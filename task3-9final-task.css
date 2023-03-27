@@ -1,0 +1,19 @@
+#Messiphoto {
+   border-radius: 50%;
+   height: 300px;
+   margin-right: 100px;
+}
+
+footer {
+   text-align: right;
+}
+
+div {
+   background-color: lightblue;
+   padding: 100px 100px 100px 100px;
+   margin: 100px 300px 100px 300px ;
+}
+
+.text {
+   font-family: 'Times New Roman', Times, serif;
+}
