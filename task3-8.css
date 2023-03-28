@@ -21,5 +21,10 @@
 }
 
 .card {
-   margin: 20px 550px 20px;
+   margin: 20px 500px 20px;
+}
+
+div {
+   padding: 50px 50px 50px 50px;
+   background-color: lightgray;
 }
